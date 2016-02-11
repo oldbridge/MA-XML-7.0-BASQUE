@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="weather_type">
+    <item>Oskarbi</item>
+    <item>Hodeitsu</item>
+    <item>Estalita</item>
+    <item>Lainotua</item>
+    <item>Ekaitz gogorra</item>
+    <item>Xirimiria</item>
+    <item>Ekaitza</item>
+    <item>Tximistak</item>
+    <item>Zaparradak</item>
+    <item>Euri gogorra</item>
+    <item>Xirimiria</item>
+    <item>Euri arina</item>
+    <item>Elur-euria</item>
+    <item>Elur-haizea</item>
+    <item>Elurra</item>
+    <item>Elur gogorra</item>
+    <item>Elur nahikoa</item>
+    <item>Elur arina</item>
+    <item>Hondar ekaitz gogorra</item>
+    <item>Hondar ekaitza</item>
+    <item>Hondarra</item>
+    <item>Haizea</item>
+    <item>Kazkabarra</item>
+    <item>Hautsa</item>
+    <item>Behelainoa</item>
+    <item>Elurte hotza</item>
+	<item></item>
+  </string-array>
+  <string-array name="indices_uv_level">
+    <item>Ahul</item>
+    <item>Ertain</item>
+    <item>Gogor</item>
+  </string-array>
+  <string-array name="indices_sport">
+	<item>Egokia</item>
+	<item>Ezegokia</item>
+  </string-array>
+  <string-array name="indices_car_wash">
+	<item>Egokia</item>
+	<item>Ezegokia</item>
+  </string-array>
+  <string-array name="wind_direction">
+        <item>I</item>
+        <item>IE</item>
+        <item>E</item>
+        <item>HE</item>
+        <item>H</item>
+        <item>HM</item>
+        <item>M</item>
+        <item>IM</item>
+    </string-array>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+    </string-array>
+</resources>

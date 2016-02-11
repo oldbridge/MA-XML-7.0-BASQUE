@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="view_realtime_clear">
+        <item quantity="other">Oskarbi</item>
+        <item quantity="one">Oskarbi</item>
+     </plurals>
+     <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">duela %d minutu</item>
+        <item quantity="one">duela minutu %d</item>
+     </plurals>
+     <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">duela %d ordu</item>
+        <item quantity="one">duela ordu %d</item>
+     </plurals>
+     <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">duela %d egun</item>
+        <item quantity="one">duela egun %d</item>
+     </plurals>
+</resources>
